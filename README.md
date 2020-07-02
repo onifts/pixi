@@ -1,4 +1,4 @@
-# pixi
+# pixijs
 - 2d game dev webGL
 
 # pixi-ui
