@@ -10,6 +10,10 @@
 
 # GUI (Graphical User Interface, 그래픽 사용자 인터페이스)
 
+# ES6+
+- 함수형 프로그래밍 
+- https://velog.io/@kyusung/%ED%95%A8%EC%88%98%ED%98%95-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EC%9A%94%EC%95%BD
+
 # pixijs
 - 2d game dev webGL
 - https://github.com/pixijs/pixi.js
