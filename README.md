@@ -13,6 +13,7 @@
 - https://pixijs.io/pixi-ui/
 
 # pixi game 
+- https://www.pixijs.com/gallery
 - https://tooncup.cartoonnetwork.co.uk/home/
 - https://www.sido.fr/#/qui-suis-je
 - http://work.goodboydigital.com/dangermouse/ultimate/
