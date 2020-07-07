@@ -2,8 +2,11 @@
 - npm install -g http-server
 - http-server
 
-- CDN(Content Delivery Network, 콘텐츠 전송 네트워크) URL vs NPM
+# CDN(Content Delivery Network, 콘텐츠 전송 네트워크) URL vs NPM
 - CDN : 콘텐츠를 효율적으로 전달하기 위해 여러 노드를 가진 네트워크에 데이터를 저장하여 제공하는 시스템을 말한다. 
+- <script src="https://cdnjs.cloudflare.com/ajax/libs/pixi.js/5.1.3/pixi.min.js"></script>
+- NPM 
+- import * as PIXI from 'pixi.js'
 
 # pixijs
 - 2d game dev webGL
