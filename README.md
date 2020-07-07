@@ -2,6 +2,8 @@
 - npm install -g http-server
 - http-server
 
+- CDN(Content Delivery Network) URL vs NPM
+
 # pixijs
 - 2d game dev webGL
 - https://pixijs.io/examples/#/demos-basic/container.js
