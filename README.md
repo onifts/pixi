@@ -18,6 +18,7 @@
 - http://work.goodboydigital.com/dangermouse/ultimate/
 - https://hypnoticowl.com/games/the-wizard/play/
 - http://case-study.goodboydigital.com/spicy-mcbites/
+- https://www.goodboydigital.com/pixijs/pixilights/
 
 # WebGL (Web Graphics Library)
 - a JavaScript API for rendering interactive 2D and 3D graphics within any compatible web browser without the use of plug-ins 
