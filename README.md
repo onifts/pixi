@@ -85,6 +85,8 @@
 - https://velog.io/@kyusung/%ED%95%A8%EC%88%98%ED%98%95-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EC%9A%94%EC%95%BD
 - Class, 객체지향 
 - https://poiemaweb.com/es6-class
+- import, export
+- https://www.daleseo.com/js-module-import/
 
 # Webpack -> Rollup
 - https://medium.com/naver-fe-platform/webpack%EC%97%90%EC%84%9C-rollup%EC%A0%84%ED%99%98%EA%B8%B0-137dc45cbc38
