@@ -48,6 +48,12 @@
 # pixi-ui
 - https://pixijs.io/pixi-ui/
 
+# ui for pixijs 
+- EZGUI
+- https://github.com/Ezelia/EZGUI
+- dat.GUI
+- http://workshop.chromeexperiments.com/examples/gui/#1--Basic-Usage
+
 # pixi game 
 - https://www.pixijs.com/gallery
 - https://tooncup.cartoonnetwork.co.uk/home/
