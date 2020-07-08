@@ -7,7 +7,34 @@
 # Dev File Structure
 - /
   - src
+    - scene 
+      - lobbyScene
+      - gameScene
+        - map
+        - action 
+        - result 
+        - ... 
+    - data 
+      - unit 
+      - world
+      - city 
+      - ...
+    - network
+      - WebSocket
+      - WebRTC
+    - lib
+    - tool 
+      - batchSetting 
+      - mapSetting 
+      - mapUnitSetting // include all object info setting 
 
+- ----------------------------------------
+- Remark
+- ----------------------------------------
+- scene : container => 1 : 1 (x)
+- data 
+  - local : game rule (local file)
+  - server : game result, history
 
 # pixijs
 - 2d game dev webGL
