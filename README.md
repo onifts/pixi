@@ -36,6 +36,10 @@
   - local : game rule (local file)
   - server : game result, history
 - ----------------------------------------
+- Ref
+- https://github.com/Zyie/Pixi.js-Game/tree/master/PixiJS%20-%20SnowFall
+- https://github.com/Coder2012/containers
+- https://github.com/pixijs/pixi.js/wiki/Boilerplate
 
 # pixijs
 - 2d game dev webGL
