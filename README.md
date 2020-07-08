@@ -10,6 +10,7 @@
     - scene 
       - lobbyScene
       - gameScene
+        - loading
         - map
         - action 
         - result 
