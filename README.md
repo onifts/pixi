@@ -53,6 +53,8 @@
 - https://github.com/Ezelia/EZGUI
 - dat.GUI
 - http://workshop.chromeexperiments.com/examples/gui/#1--Basic-Usage
+- react pixi
+- https://reactpixi.org/
 
 # pixi game 
 - https://www.pixijs.com/gallery
