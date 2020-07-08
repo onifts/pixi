@@ -1,6 +1,13 @@
-# dev 
+# Dev 
 - npm install -g http-server
 - http-server
+- or 
+- yarn dev
+
+# Dev File Structure
+- /
+  - src
+
 
 # pixijs
 - 2d game dev webGL
