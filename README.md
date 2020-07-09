@@ -15,7 +15,7 @@
         - action 
         - result 
         - ... 
-    - data // data CDN? batch?
+    - data // CDN? patch?
       - unit 
       - world
       - city 
