@@ -26,7 +26,6 @@
     - lib
     - tool 
       - batchSetting 
-      - mapSetting 
       - mapUnitSetting // include all object info setting 
 
 - ----------------------------------------
