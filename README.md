@@ -20,10 +20,10 @@
       - world
       - city 
       - ...
-    - network
-      - WebSocket
-      - WebRTC
     - lib
+      - network
+        - WebSocket
+        - WebRTC
     - tool  
       - mapUnitSetting // one button upload, include all object info setting 
 
