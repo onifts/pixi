@@ -24,9 +24,8 @@
       - WebSocket
       - WebRTC
     - lib
-    - tool 
-      - batchSetting 
-      - mapUnitSetting // include all object info setting 
+    - tool  
+      - mapUnitSetting // one button upload, include all object info setting 
 
 - ----------------------------------------
 - [ Remark ]
