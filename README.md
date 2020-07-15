@@ -7,6 +7,7 @@
 - Dev
   - MediaStream: 사용자의 카메라와 마이크 같은 곳의 데이터 스트림에 접근합니다.
   - RTCPeerConnection: 암호화 및 대역폭 관리를 하는 기능을 가지고 있고, 오디오 또는 비디오 연결을 합니다.
+    - 시그널링(Signaling) : RTCPeerConnection들이 적절하게 데이터를 교환할 수 있게 처리하는 과정을 시그널링(Signaling) 이라고 한다.
   - RTCDataChannel: 일반적인 데이터 P2P통신
 
 # rollup.js
