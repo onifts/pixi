@@ -11,7 +11,12 @@
     - 콜러(caller) / 콜리(callee) : PeerConnection은 두 명의 유저가 스트림을 주고 받는 것이므로 연결을 요청한 콜러(caller)와 연결을 받는 콜리(callee)가 존재한다. 
     - SessionDescription : 콜러와 콜리가 통신을 하기 위해서는 중간 역할을 하는 서버가 필요하고 서버를 통해서 SessionDescription을 서로 주고 받아야 한다.
   - RTCDataChannel: 일반적인 데이터 P2P통신
-  - https://velog.io/@ehdrms2034/WebRTC-%EC%9B%B9%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%EB%A1%9C-%ED%99%94%EC%83%81-%EC%B1%84%ED%8C%85%EC%9D%84-%EB%A7%8C%EB%93%A4-%EC%88%98-%EC%9E%88%EB%8B%A4%EA%B3%A0
+    - https://velog.io/@ehdrms2034/WebRTC-%EC%9B%B9%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%EB%A1%9C-%ED%99%94%EC%83%81-%EC%B1%84%ED%8C%85%EC%9D%84-%EB%A7%8C%EB%93%A4-%EC%88%98-%EC%9E%88%EB%8B%A4%EA%B3%A0
+  - STUN / TURN
+    - STUN (Session Traversal Utilities for NAT)
+    - STUN 은 IETF RFC 5389에 정의된 네트워크 프로토콜/패킷 포맷으로, 네트워크 환경에 대한 Discovery 를 위한 것이다. 
+    - 메신저들끼리 통신하기 위하여 STUN 패킷을 이용한다.
+
 # rollup.js
 - output format : iife, cjs, umd, es 
   - iife : immediately-invoked function expression 
