@@ -4,6 +4,10 @@
 - Real-time communication with WebRTC: Google I/O 2013 발표 
 - appr.tc 
 - https://www.html5rocks.com/ko/tutorials/webrtc/basics/
+- Dev
+  - MediaStream: 사용자의 카메라와 마이크 같은 곳의 데이터 스트림에 접근합니다.
+  - RTCPeerConnection: 암호화 및 대역폭 관리를 하는 기능을 가지고 있고, 오디오 또는 비디오 연결을 합니다.
+  - RTCDataChannel: 일반적인 데이터 P2P통신
 
 # rollup.js
 - output format : iife, cjs, umd, es 
