@@ -11,6 +11,7 @@
     - UMD format requires a bundle name
 - plugins 
   - rollup-plugin-copy-assets
+  - https://www.npmjs.com/package/rollup-plugin-copy-assets
   
 # Dev 
 - npm install -g http-server
