@@ -14,8 +14,13 @@
     - https://velog.io/@ehdrms2034/WebRTC-%EC%9B%B9%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%EB%A1%9C-%ED%99%94%EC%83%81-%EC%B1%84%ED%8C%85%EC%9D%84-%EB%A7%8C%EB%93%A4-%EC%88%98-%EC%9E%88%EB%8B%A4%EA%B3%A0
   - STUN / TURN
     - STUN (Session Traversal Utilities for NAT)
-    - STUN 은 IETF RFC 5389에 정의된 네트워크 프로토콜/패킷 포맷으로, 네트워크 환경에 대한 Discovery 를 위한 것이다. 
-    - 메신저들끼리 통신하기 위하여 STUN 패킷을 이용한다.
+      - STUN 은 IETF RFC 5389에 정의된 네트워크 프로토콜/패킷 포맷으로, 네트워크 환경에 대한 Discovery 를 위한 것이다. 
+      - 메신저들끼리 통신하기 위하여 STUN 패킷을 이용한다.
+    - TURN (Traversal Using Relays around NAT)
+      - Peer간 직접 통신이 실패할 경우 종단점들 사이에 데이터 릴레이를 수행하는 TURN 서버들을 사용한다. 
+      - TURN 은 Peer 들간의 미디어 스트리밍을 릴레이하기 위해 사용된다. 
+      - TURN은 공용 주소들을 가지고 있으며 미디어를 릴레이 하기 때문에 네트워크와 컴퓨팅 자원이 소모될 수 있다.
+    - https://alnova2.tistory.com/1110
 
 # rollup.js
 - output format : iife, cjs, umd, es 
