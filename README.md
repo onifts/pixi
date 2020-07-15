@@ -1,14 +1,16 @@
 # rollup.js
 - output format : iife, cjs, umd, es 
-- iife : immediately-invoked function expression 
-  - For browsers
-  - compile to a <script> containing a self-executing function ('iife')
-- cjs
-  - For Node.js
-  - compile to a CommonJS module ('cjs')
-- umd
-  - For both browsers and Node.js
-  - UMD format requires a bundle name
+  - iife : immediately-invoked function expression 
+    - For browsers
+    - compile to a <script> containing a self-executing function ('iife')
+  - cjs
+    - For Node.js
+    - compile to a CommonJS module ('cjs')
+  - umd
+    - For both browsers and Node.js
+    - UMD format requires a bundle name
+- plugins 
+  - rollup-plugin-copy-assets
   
 # Dev 
 - npm install -g http-server
