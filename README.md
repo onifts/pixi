@@ -8,6 +8,8 @@
   - MediaStream: 사용자의 카메라와 마이크 같은 곳의 데이터 스트림에 접근합니다.
   - RTCPeerConnection: 암호화 및 대역폭 관리를 하는 기능을 가지고 있고, 오디오 또는 비디오 연결을 합니다.
     - 시그널링(Signaling) : RTCPeerConnection들이 적절하게 데이터를 교환할 수 있게 처리하는 과정을 시그널링(Signaling)이라고 한다.
+    - 콜러(caller) / 콜리(callee) : PeerConnection은 두 명의 유저가 스트림을 주고 받는 것이므로 연결을 요청한 콜러(caller)와 연결을 받는 콜리(callee)가 존재한다. 
+    - SessionDescription : 콜러와 콜리가 통신을 하기 위해서는 중간 역할을 하는 서버가 필요하고 서버를 통해서 SessionDescription을 서로 주고 받아야 한다.
   - RTCDataChannel: 일반적인 데이터 P2P통신
 
 # rollup.js
