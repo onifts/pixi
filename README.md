@@ -22,6 +22,7 @@
       - TURN 은 Peer 들간의 미디어 스트리밍을 릴레이하기 위해 사용된다. 
       - TURN은 공용 주소들을 가지고 있으며 미디어를 릴레이 하기 때문에 네트워크와 컴퓨팅 자원이 소모될 수 있다.
     - https://alnova2.tistory.com/1110
+  - ICE (Internet Connectivity Establishment)
 
 # rollup.js
 - output format : iife, cjs, umd, es 
