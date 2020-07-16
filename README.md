@@ -23,7 +23,8 @@
       - TURN은 공용 주소들을 가지고 있으며 미디어를 릴레이 하기 때문에 네트워크와 컴퓨팅 자원이 소모될 수 있다.
     - https://alnova2.tistory.com/1110
   - ICE (Internet Connectivity Establishment)
-
+    - 하나의 ICE candidate는 WebRTC가 원격 장치와 통신을 하기 위해 요구되는 프로토콜과 라우팅에 대해 알려줍니다.
+    
 # rollup.js
 - output format : iife, cjs, umd, es 
   - iife : immediately-invoked function expression 
