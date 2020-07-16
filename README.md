@@ -5,7 +5,9 @@
 - appr.tc 
 - https://www.html5rocks.com/ko/tutorials/webrtc/basics/
 - Dev
-  - WebRTC + WebRTC Signaling Server (coturn, janus, ...)
+  - WebRTC + WebRTC Server 
+    - Signaling Server : janus
+    - STUN/TURN Server : coturn
   - MediaStream: 사용자의 카메라와 마이크 같은 곳의 데이터 스트림에 접근합니다.
   - RTCPeerConnection: 암호화 및 대역폭 관리를 하는 기능을 가지고 있고, 오디오 또는 비디오 연결을 합니다.
     - 시그널링(Signaling) : RTCPeerConnection들이 적절하게 데이터를 교환할 수 있게 처리하는 과정을 시그널링(Signaling)이라고 한다.
@@ -24,6 +26,9 @@
     - https://alnova2.tistory.com/1110
   - ICE (Internet Connectivity Establishment)
     - 하나의 ICE candidate는 WebRTC가 원격 장치와 통신을 하기 위해 요구되는 프로토콜과 라우팅에 대해 알려줍니다.
+  - SDP (Session Description Protocol, 세션 기술 프로토콜)
+    - 스트리밍 미디어의 초기화 인수를 기술하기 위한 포맷이다. 이 규격은 IETF의 RFC 4566로 규정되어 있다.
+    - 실제로 WEB RTC는 SDP format 에 맞춰져 영상,음성 데이터를 교환하고 있다.
 - https://webrtc.org/support/overview?hl=en
 - https://www.html5rocks.com/ko/tutorials/webrtc/basics/#toc-first
 - https://developer.mozilla.org/ko/docs/Web/API/WebRTC_API
