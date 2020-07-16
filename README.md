@@ -24,7 +24,10 @@
     - https://alnova2.tistory.com/1110
   - ICE (Internet Connectivity Establishment)
     - 하나의 ICE candidate는 WebRTC가 원격 장치와 통신을 하기 위해 요구되는 프로토콜과 라우팅에 대해 알려줍니다.
-    
+- https://webrtc.org/support/overview?hl=en
+- https://www.html5rocks.com/ko/tutorials/webrtc/basics/#toc-first
+- https://developer.mozilla.org/ko/docs/Web/API/WebRTC_API
+
 # rollup.js
 - output format : iife, cjs, umd, es 
   - iife : immediately-invoked function expression 
