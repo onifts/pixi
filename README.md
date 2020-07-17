@@ -42,6 +42,8 @@
 - https://webrtc.org/support/overview?hl=en
 - https://www.html5rocks.com/ko/tutorials/webrtc/basics/#toc-first
 - https://developer.mozilla.org/ko/docs/Web/API/WebRTC_API
+- https://ui.toast.com/weekly-pick/ko_20160812/
+- http://jaynewho.com/post/36
 
 # rollup.js
 - output format : iife, cjs, umd, es 
