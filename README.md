@@ -18,6 +18,7 @@
   - RTCDataChannel: 일반적인 데이터 P2P통신
     - 데이터 전송
     - https://developer.mozilla.org/ko/docs/Web/API/WebRTC_API/Using_data_channels
+    - https://www.html5rocks.com/ko/tutorials/webrtc/datachannels/
     - https://velog.io/@ehdrms2034/WebRTC-%EC%9B%B9%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%EB%A1%9C-%ED%99%94%EC%83%81-%EC%B1%84%ED%8C%85%EC%9D%84-%EB%A7%8C%EB%93%A4-%EC%88%98-%EC%9E%88%EB%8B%A4%EA%B3%A0
   - STUN / TURN
     - STUN (Session Traversal Utilities for NAT)
