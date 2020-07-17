@@ -26,8 +26,12 @@
       - 메신저들끼리 통신하기 위하여 STUN 패킷을 이용한다.
     - TURN (Traversal Using Relays around NAT)
       - Peer간 직접 통신이 실패할 경우 종단점들 사이에 데이터 릴레이를 수행하는 TURN 서버들을 사용한다. 
-      - TURN 은 Peer 들간의 미디어 스트리밍을 릴레이하기 위해 사용된다. 
-      - TURN은 공용 주소들을 가지고 있으며 미디어를 릴레이 하기 때문에 네트워크와 컴퓨팅 자원이 소모될 수 있다.
+      - TURN 
+        - 각 피어의 공개적으로 접근 가능한 IP와 포트를 찾아내려고
+        - Peer 들간의 미디어 스트리밍을 릴레이하기 위해 사용된다. 
+      - TURN
+        - 직접 연결이 실패하고 데이터 중계(relaying)가 필요
+        - 공용 주소들을 가지고 있으며 미디어를 릴레이 하기 때문에 네트워크와 컴퓨팅 자원이 소모될 수 있다.
     - https://alnova2.tistory.com/1110
   - ICE (Internet Connectivity Establishment)
     - 하나의 ICE candidate는 WebRTC가 원격 장치와 통신을 하기 위해 요구되는 프로토콜과 라우팅에 대해 알려줍니다.
