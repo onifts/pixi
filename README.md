@@ -6,7 +6,7 @@
   - https://www.html5rocks.com/ko/tutorials/webrtc/basics/
 - Dev
   - WebRTC + WebRTC Server 
-    - Signaling Server : janus
+    - Signaling Server : janus, socketio
     - STUN/TURN Server : coturn
   - MediaStream: 사용자의 카메라와 마이크 같은 곳의 데이터 스트림에 접근합니다.
     - navigator.mediaDevices.getUserMedia // localhost, https 에서만 작동한다. 
